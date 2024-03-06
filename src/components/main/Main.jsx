@@ -1,6 +1,6 @@
 import ProductCard from "../cards/ProductCard";
 import FeedbackCard from "../cards/FeedbackCard";
-import FooterSection from "../footer/Footer";
+
 function Main(){
     return (
         <>
@@ -41,7 +41,6 @@ function Main(){
                         <FeedbackCard/>
                     </div>
                 </div>
-                <FooterSection/>
             </div>
         </section>
         </>
